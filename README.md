@@ -5,3 +5,4 @@ Https services info
 400 is bad request
 401 is unauthorised 
 404 Not found
+500 Internal server error
